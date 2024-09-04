@@ -29,17 +29,17 @@ network security, Unix tools, Linux administration skills, security policy, and 
 **SYSTEM SUPPORT SPECIALIST**  
 UPTITEK LIMITED 2019 - 2023  
 
-• Monitored and maintained systems to ensure optimal performance and uptime.
-• Performed regular updates, patches, and backups to keep systems secure and operational.
-• Used monitoring tools to identify and resolve system issues proactively
-• Conducted training sessions for end-users on new software, tools, and best practices
+• Monitored and maintained systems to ensure optimal performance and uptime.  
+• Performed regular updates, patches, and backups to keep systems secure and operational.  
+• Used monitoring tools to identify and resolve system issues proactively.  
+• Conducted training sessions for end-users on new software, tools, and best practices.  
 
 # Header 1
-![Branching](OIG1.qpmZYB34lny_By9GCFPB.jpg)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-• Configured and managed user accounts, permissions, and access controls.
-• Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.
-• Implemented and managed virtualization solutions, including VMware/Hyper-V
+• Configured and managed user accounts, permissions, and access controls.  
+• Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.  
+• Implemented and managed virtualization solutions, including VMware/Hyper-V  
 
 ## Header 2
 
