@@ -16,7 +16,7 @@ network security, Unix tools, Linux administration skills, security policy, and 
 
 **SKILLS & ABILITIES**
 
-• Sed, Awk, Grep, Vi or VIM, Logs, SeLinux, Ansible, Bash, shell scripting, Cron, Storage, FileSystem.
+• Sed, Awk, Grep, Vi or VIM, Logs, SeLinux, Ansible, Bash, shell scripting, Cron, Storage, FileSystem.  
 •	Programming language (Python, SQL)           
 •	Network Security  
 •	Incident response and detection 
