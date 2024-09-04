@@ -5,12 +5,12 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-# Daniel Kalu
-'Email: druel5050@yahoo.com'
-'Phone: +2348035232593'
-**System Support Specialist**
+# Daniel Kalu    
+'Email: druel5050@yahoo.com'     
+'Phone: +2348035232593'    
+**System Support Specialist**     
 
-**SUMMARY**
+**SUMMARY**       
 
 I am a motivated system administrator aiming for an entry-level position, where I can utilize my expertise in 
 Unix tools, Linux administration skills, security policy, Network security and organizational risk management. 
