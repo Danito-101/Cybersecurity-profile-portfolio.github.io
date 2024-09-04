@@ -12,9 +12,18 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 **SUMMARY**
 
 I am a motivated security analyst aiming for an entry-level position in cybersecurity, where I can utilize my expertise in 
-network security, Linux administration skills, security policy, and organizational risk management. 
+network security, Unix tools, Linux administration skills, security policy, and organizational risk management. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**SKILLS & ABILITIES**
+
+• Sed, Awk, Grep, Vi or VIM, Logs, SeLinux, Ansible, Bash, shell scripting, Cron, Storage, FileSystem.
+•	Programming language (Python, SQL)           
+•	Network Security  
+•	Incident response and detection 
+•	Linux command UI            
+•	Security frameworks,
+
+
 
 # Header 1
 # 
