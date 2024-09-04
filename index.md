@@ -6,8 +6,8 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 [Link to another page](./another-page.html).
 
 # Daniel Kalu    
-'Email: druel5050@yahoo.com'     
-'Phone: +2348035232593'    
+`Email: druel5050@yahoo.com`       
+`Phone: +2348035232593`         
 **System Support Specialist**     
 
 **SUMMARY**       
