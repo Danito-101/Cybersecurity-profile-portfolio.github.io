@@ -6,7 +6,9 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+**SUMMARY*
+I am a motivated security analyst aiming for an entry-level position in cybersecurity, where I can utilize my expertise in 
+network security, Linux administration skills, security policy, and organizational risk management. 
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
