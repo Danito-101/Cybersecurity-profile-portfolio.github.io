@@ -21,7 +21,7 @@ network security, Unix tools, Linux administration skills, security policy, and 
 •	Operating Systems: (Windows, Linux, macOS, etc.)  
 •	Vulnerability Assessment  
 •	Linux command line              
-•	Security frameworks 
+•	Security frameworks    
 • Virtualization: (VMware, Hyper-V, etc.)
 
 **EXPERIENCE**
