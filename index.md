@@ -6,7 +6,10 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
+# Danial Kalu
+
 **SUMMARY*
+
 I am a motivated security analyst aiming for an entry-level position in cybersecurity, where I can utilize my expertise in 
 network security, Linux administration skills, security policy, and organizational risk management. 
 
