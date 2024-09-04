@@ -1,12 +1,13 @@
 # MY CYBER PORTFOLIO
 layout: default
 ---
-
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
 # Daniel Kalu
+'Email: druel5050@yahoo.com'
+'Phone: +2348035232593'
 **System Support Specialist**
 
 **SUMMARY**
@@ -30,9 +31,9 @@ Unix tools, Linux administration skills, security policy, Network security and o
 UPTITEK LIMITED 2019 - 2023  
 
 • Monitored and maintained systems to ensure optimal performance and uptime.  
-• Performed regular updates, patches, and backups to keep systems secure and operational.  
-• Used monitoring tools to identify and resolve system issues proactively. 
-• Reduced system downtime by 0.01% through proactive monitoring and maintenance.     
+• Performed regular updates, patches, and backups to keep systems secure and operational.   
+• Used monitoring tools to identify and resolve system issues proactively.        
+• Reduced system downtime by 0.01% through proactive monitoring and maintenance.       
 • Conducted training sessions for end-users on new software, tools, and best practices.   
 
 # Header 1
@@ -42,6 +43,8 @@ UPTITEK LIMITED 2019 - 2023
 • Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.   
 • Implemented and managed virtualization solutions, including VMware/Hyper-V      
 
+**SOFTWARE SALES/TECH REP**    
+  CAVSUSA 2012 - 2022
 ## Header 2
 
 > This is a blockquote following a header.
