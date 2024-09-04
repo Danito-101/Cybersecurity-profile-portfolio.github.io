@@ -7,12 +7,12 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 [Link to another page](./another-page.html).
 
 # Daniel Kalu
-**Cybersecurity Analyst**
+**System Support Specialist**
 
 **SUMMARY**
 
-I am a motivated security analyst aiming for an entry-level position in cybersecurity, where I can utilize my expertise in 
-network security, Unix tools, Linux administration skills, security policy, and organizational risk management. 
+I am a motivated system administrator aiming for an entry-level position, where I can utilize my expertise in 
+Unix tools, Linux administration skills, security policy, Network security and organizational risk management. 
 
 **SKILLS & ABILITIES**
 
@@ -21,8 +21,8 @@ network security, Unix tools, Linux administration skills, security policy, and 
 •	Operating Systems: (Windows, Linux, macOS, etc.)  
 •	Vulnerability Assessment  
 •	Linux command line              
-•	Security frameworks    
-• Virtualization: (VMware, Hyper-V, etc.)
+•	Security frameworks                    
+• Virtualization: (VMware, Hyper-V, etc.)     
 
 **EXPERIENCE**
 
@@ -31,15 +31,16 @@ UPTITEK LIMITED 2019 - 2023
 
 • Monitored and maintained systems to ensure optimal performance and uptime.  
 • Performed regular updates, patches, and backups to keep systems secure and operational.  
-• Used monitoring tools to identify and resolve system issues proactively.  
-• Conducted training sessions for end-users on new software, tools, and best practices.  
+• Used monitoring tools to identify and resolve system issues proactively. 
+• Reduced system downtime by 0.01% through proactive monitoring and maintenance.     
+• Conducted training sessions for end-users on new software, tools, and best practices.   
 
 # Header 1
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)     
 
 • Configured and managed user accounts, permissions, and access controls.  
-• Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.  
-• Implemented and managed virtualization solutions, including VMware/Hyper-V  
+• Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.   
+• Implemented and managed virtualization solutions, including VMware/Hyper-V      
 
 ## Header 2
 
