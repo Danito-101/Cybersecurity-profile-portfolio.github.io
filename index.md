@@ -45,6 +45,10 @@ UPTITEK LIMITED 2019 - 2023
 
 **SOFTWARE SALES/TECH REP**    
   CAVSUSA 2012 - 2022
+•	Selling of karaoke software as a Nigerian Rep  
+•	Karaoke software installations and trouble shooting 
+Successfully implemented facebook marketing, resulting in [measurable outcome].
+
 ## Header 2
 
 > This is a blockquote following a header.
