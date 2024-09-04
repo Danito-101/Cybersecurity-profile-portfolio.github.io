@@ -17,18 +17,29 @@ network security, Unix tools, Linux administration skills, security policy, and 
 **SKILLS & ABILITIES**
 
 • Sed, Awk, Grep, Vi or VIM, Logs, SeLinux, Ansible, Bash, shell scripting, Cron, Storage, FileSystem.  
-•	Programming language (Python, SQL)           
-•	Network Security    
-•	Incident response and detection   
-•	Linux command UI              
-•	Security frameworks,
+•	Scripting Languages: (Bash, PowerShell, Python, SQL)            
+•	Operating Systems: (Windows, Linux, macOS, etc.)  
+•	Vulnerability Assessment  
+•	Linux command line              
+•	Security frameworks 
+• Virtualization: (VMware, Hyper-V, etc.)
 
+**EXPERIENCE**
 
+**SYSTEM SUPPORT SPECIALIST**  
+UPTITEK LIMITED 2019 - 2023  
+
+• Monitored and maintained systems to ensure optimal performance and uptime.
+• Performed regular updates, patches, and backups to keep systems secure and operational.
+• Used monitoring tools to identify and resolve system issues proactively
+• Conducted training sessions for end-users on new software, tools, and best practices
 
 # Header 1
-# 
+![Branching](OIG1.qpmZYB34lny_By9GCFPB.jpg)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+• Configured and managed user accounts, permissions, and access controls.
+• Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.
+• Implemented and managed virtualization solutions, including VMware/Hyper-V
 
 ## Header 2
 
