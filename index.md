@@ -50,7 +50,8 @@ UPTITEK LIMITED 2019 - 2023
 • Created and maintained technical documentation, including system configurations, procedures, and troubleshooting guides.    
 • Successfully implemented facebook and Instagram marketing which brought 120% - 150% sales monthly.   
 
-**EDUCATION**
+**EDUCATION**   
+
 GOOGLE CYBERSECURITY CERTIFICATE – ONLINE – NOVEMBER 24, 2023         
 QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022      
 INTRO TO CYBERSECURITY TOOLS & CYBER ATTACKS (IBM) – AUGUST 27, 2021     
