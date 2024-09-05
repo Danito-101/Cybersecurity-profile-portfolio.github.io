@@ -35,8 +35,8 @@ UPTITEK LIMITED 2019 - 2023
 • Conducted training sessions for end-users on new software, tools, and best practices.   
 • Diagnosed and troubleshot system problems, escalating complex issues to senior engineers when necessary.   
 
-# Header 1
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)     
+### perfomed several database security task 
+![Octocat](MySQLview.png)      
 
 • Configured and managed user accounts, permissions, and access controls.  
 • Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.   
