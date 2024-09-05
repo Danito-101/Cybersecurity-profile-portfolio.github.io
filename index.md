@@ -1,12 +1,10 @@
-# MY CYBER PORTFOLIO
-layout: default
----
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# MY CYBER PORTFOLIO    
+layout: default    
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.html).     
 
 # Daniel Kalu    
-`Email: druel5050@yahoo.com`       
+`Email: danielkalu@karaokeexpertsng.com`       
 `Phone: +2348035232593`         
 **System Support Specialist**     
 
@@ -35,6 +33,7 @@ UPTITEK LIMITED 2019 - 2023
 • Used monitoring tools to identify and resolve system issues proactively.        
 • Reduced system downtime by 0.01% through proactive monitoring and maintenance.       
 • Conducted training sessions for end-users on new software, tools, and best practices.   
+• Diagnosed and troubleshot system problems, escalating complex issues to senior engineers when necessary.   
 
 # Header 1
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)     
@@ -44,10 +43,18 @@ UPTITEK LIMITED 2019 - 2023
 • Implemented and managed virtualization solutions, including VMware/Hyper-V      
 
 **SOFTWARE SALES/TECH REP**    
-  CAVSUSA 2012 - 2022
-•	Selling of karaoke software as a Nigerian Rep  
-•	Karaoke software installations and trouble shooting 
-Successfully implemented facebook marketing, resulting in [measurable outcome].
+  CAVSUSA 2012 - 2022     
+•	Selling of karaoke software as a Nigerian Rep       
+•	Karaoke software installations and trouble shooting    
+• Conducted training sessions for end-users on new software, modules, and best guides.      
+• Created and maintained technical documentation, including system configurations, procedures, and troubleshooting guides.    
+• Successfully implemented facebook and Instagram marketing which brought 120% - 150% sales monthly.   
+
+**EDUCATION**
+GOOGLE CYBERSECURITY CERTIFICATE – ONLINE – NOVEMBER 24, 2023    
+QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022      
+INTRO TO CYBERSECURITY TOOLS & CYBER ATTACKS (IBM) – AUGUST 27, 2021     
+UNIVERSITY OF CALABAR, BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION (23RD JULY 2012)      
 
 ## Header 2
 
