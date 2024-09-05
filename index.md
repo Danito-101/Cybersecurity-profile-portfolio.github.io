@@ -1,5 +1,4 @@
-# MY CYBER PORTFOLIO    
-layout: default    
+# MY CYBER PORTFOLIO     
 
 [Link to another page](./another-page.html).     
 
