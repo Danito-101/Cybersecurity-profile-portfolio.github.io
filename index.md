@@ -3,13 +3,13 @@
 [Link to another page](./another-page.html).     
 
 # Daniel Kalu    
-`Email: danielkalu@karaokeexpertsng.com`       
+`Email: druel5050@yahoo.com`       
 `Phone: +2348035232593`         
 **System Support Specialist**     
 
 **SUMMARY**       
 
-I am a motivated system administrator aiming for an entry-level position, where I can utilize my expertise in 
+I am a motivated system administrator aiming for a position in your organization, where I can utilize my expertise in 
 Unix tools, Linux administration skills, security policy, Network security and organizational risk management. 
 
 **SKILLS & ABILITIES**
@@ -52,31 +52,15 @@ UPTITEK LIMITED 2019 - 2023
 **EDUCATION**   
 
 GOOGLE CYBERSECURITY CERTIFICATE – ONLINE – NOVEMBER 24, 2023         
-QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022      
+QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022    
+PYTHON - PROGRAMMING HUB          - ONLINE - NOVEMBER  23, 2021
+LINUX  - PROGRAMMING HUB          - ONLINE - AUGUST        2021
 INTRO TO CYBERSECURITY TOOLS & CYBER ATTACKS (IBM) – AUGUST 27, 2021     
 UNIVERSITY OF CALABAR, BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION (23RD JULY 2012)      
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+> This is a blockquote following a heade
 ```
 <iframe width="640" height="360" src="https://www.youtube.com/embed/your-video-id" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -100,28 +84,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
+| ok           | good `zoute` 
 - level 1 item
   - level 2 item
   - level 2 item
