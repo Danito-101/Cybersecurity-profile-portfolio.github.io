@@ -9,7 +9,7 @@
 
 **SUMMARY**       
 
-I am a motivated system administrator aiming for a position in your organization, where I can utilize my expertise in 
+I am a motivated system support engineer aiming for a position in your organization, where I can utilize my expertise in 
 Unix tools, Linux administration skills, security policy, Network security and organizational risk management. 
 
 **SKILLS & ABILITIES**
