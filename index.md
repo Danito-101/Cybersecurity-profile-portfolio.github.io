@@ -53,78 +53,21 @@ UPTITEK LIMITED 2019 - 2023
 
 GOOGLE CYBERSECURITY CERTIFICATE – ONLINE – NOVEMBER 24, 2023         
 QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022    
-PYTHON - PROGRAMMING HUB          - ONLINE - NOVEMBER  23, 2021
-LINUX  - PROGRAMMING HUB          - ONLINE - AUGUST        2021
+PYTHON - PROGRAMMING HUB          - ONLINE - NOVEMBER  23, 2021      
+LINUX  - PROGRAMMING HUB          - ONLINE - AUGUST        2021       
 INTRO TO CYBERSECURITY TOOLS & CYBER ATTACKS (IBM) – AUGUST 27, 2021     
 UNIVERSITY OF CALABAR, BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION (23RD JULY 2012)      
 
-## Header 2
 
-> This is a blockquote following a heade
-```
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/your-video-id" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](OIG1.qpmZYB34lny_By9GCFPB.jpg)
+![Octocat]()
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+![Branching]()
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
