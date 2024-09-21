@@ -1,6 +1,6 @@
 # MY CYBER PORTFOLIO     
 
-(https://danielrefletter.pdf)   
+![Octocat](danielrefletter.pdf)  
 
 # Daniel Kalu    
 `Email: druel5050@yahoo.com`       
