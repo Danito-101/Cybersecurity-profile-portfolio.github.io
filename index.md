@@ -1,6 +1,5 @@
 # MY CYBER PORTFOLIO     
-
-![Octocat](danielrefletter.pdf)  
+  
 
 # Daniel Kalu    
 `Email: druel5050@yahoo.com`       
@@ -40,6 +39,8 @@ UPTITEK LIMITED 2019 - 2023
 • Configured and managed user accounts, permissions, and access controls.  
 • Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.   
 • Implemented and managed virtualization solutions, including VMware/Hyper-V      
+
+![Octocat](danielrefletter.pdf)
 
 **SOFTWARE SALES/TECH REP**    
   CAVSUSA 2012 - 2022     
