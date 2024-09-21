@@ -1,6 +1,6 @@
 # MY CYBER PORTFOLIO     
 
-[Link to another page](./another-page.html).     
+[Link to another page](danielrefletter.docx)   
 
 # Daniel Kalu    
 `Email: druel5050@yahoo.com`       
