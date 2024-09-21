@@ -1,6 +1,6 @@
 # MY CYBER PORTFOLIO     
 
-(danielrefletter.docx)   
+(https://danielrefletter.pdf)   
 
 # Daniel Kalu    
 `Email: druel5050@yahoo.com`       
