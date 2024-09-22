@@ -60,7 +60,7 @@ UNIVERSITY OF CALABAR, BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION (23RD JULY 2
 
 ### MY REFERENCE LETTER
 
-![Octocat](danielrefletter.pdf)
+![Octocat](danielrefletter.png)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/your-video-id" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
