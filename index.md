@@ -40,7 +40,6 @@ UPTITEK LIMITED 2019 - 2023
 • Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.   
 • Implemented and managed virtualization solutions, including VMware/Hyper-V      
 
-![Octocat](danielrefletter.pdf)
 
 **SOFTWARE SALES/TECH REP**    
   CAVSUSA 2012 - 2022     
@@ -57,9 +56,11 @@ QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022
 PYTHON - PROGRAMMING HUB          - ONLINE - NOVEMBER  23, 2021      
 LINUX  - PROGRAMMING HUB          - ONLINE - AUGUST        2021       
 INTRO TO CYBERSECURITY TOOLS & CYBER ATTACKS (IBM) – AUGUST 27, 2021     
-UNIVERSITY OF CALABAR, BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION (23RD JULY 2012)      
+UNIVERSITY OF CALABAR, BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION (23RD JULY 2012)     
 
+### MY REFERENCE LETTER
 
+![Octocat](danielrefletter.pdf)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/your-video-id" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
