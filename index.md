@@ -40,6 +40,9 @@ UPTITEK LIMITED 2019 - 2023
 • Automated repetitive tasks using scripts to improve efficiency and reduce manual errors.   
 • Implemented and managed virtualization solutions, including VMware/Hyper-V      
 
+### cybersecurity incident report on Network Analysis
+![Octocat](Cybersecurity%20incident%20report%20Upwork-1.png)       
+
 
 **SOFTWARE SALES/TECH REP**    
   CAVSUSA 2012 - 2022     
