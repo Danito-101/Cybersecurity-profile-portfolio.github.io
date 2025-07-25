@@ -52,7 +52,7 @@ UPTITEK LIMITED 2019 - 2023
 
 **EDUCATION**   
 
-CompTia Security+ CERTIFICATE   - ONLINE - NOVEMBER 6, 2014                                                         
+CompTia Security+ CERTIFICATE   - ONLINE - NOVEMBER 6, 2024                                                         
 GOOGLE CYBERSECURITY CERTIFICATE – ONLINE – NOVEMBER 24, 2023         
 QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022    
 PYTHON - PROGRAMMING HUB          - ONLINE - NOVEMBER  23, 2021      
