@@ -51,7 +51,7 @@ UPTITEK LIMITED 2019 - 2023
 • Successfully implemented facebook and Instagram marketing which brought 120% - 150% sales monthly.   
 
 **EDUCATION**   
-
+CompTia Security+ CERTIFICATE    - ONLINE - NOVEMBER 6, 2014
 GOOGLE CYBERSECURITY CERTIFICATE – ONLINE – NOVEMBER 24, 2023         
 QUALYS VULNERABILITY MANAGEMENT – ONLINE – NOVEMBER 11, 2022    
 PYTHON - PROGRAMMING HUB          - ONLINE - NOVEMBER  23, 2021      
